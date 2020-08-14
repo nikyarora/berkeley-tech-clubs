@@ -40,7 +40,7 @@ collections:
   modules:
   schedules:
   announcements:
-  lessons:
+  clubs:
     permalink: '/:collection/:path/'
     output: true
 # Default layouts for each collection type
@@ -67,16 +67,16 @@ defaults:
       layout: announcement
   - scope:
       path: ''
-      type: lessons
+      type: clubs
     values:
       layout: page
 # Configure collections for Just the Docs
 just_the_docs:
   collections:
     pages:
-      name: *title
-    lessons:
-      name: Resources
+      name: General
+    clubs:
+      name: Clubs
 
 compress_html:
   clippings: all

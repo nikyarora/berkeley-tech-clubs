@@ -2,10 +2,6 @@
 title: Introduction to Java
 ---
 
-Sep 28
-: [Java & Git]({{ site.baseurl }}{% link _lessons/java-git.md %})
-  : [1.1](#)
-
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
