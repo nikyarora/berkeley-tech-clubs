@@ -3,7 +3,6 @@
 
 // Just the Class styles
 @import 'announcement';
-@import 'module';
 @import 'schedule';
 @import 'staffer';
 
@@ -126,4 +125,8 @@ summary {
 // Added by Shomil
 .site-title {
   font-size: 16px !important;
+}
+
+.img {
+  height: "100px";
 }

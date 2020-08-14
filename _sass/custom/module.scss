@@ -23,7 +23,7 @@
     }
 
     @include mq(lg) {
-      grid-template-columns: 1fr 7fr;
+      grid-template-columns: 2fr 2fr 7fr 3fr;
     }
 
     %module-item {
