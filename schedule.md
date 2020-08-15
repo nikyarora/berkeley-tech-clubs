@@ -28,7 +28,6 @@ seo:
 | **Aug 31** | **08:00 PM** | MDB Infosession                                                                                                                                                                                                                                                                                  | [Zoom](https://go.mdb.dev/recruit-zoom) |
 | **Sep 01** | **08:00 PM** | MDB Meet the Members                                                                                                                                                                                                                                                                             | [Zoom](https://go.mdb.dev/recruit-zoom) |
 | **Sep 03** | **12:00 AM** | MDB Application Deadline                                                                                                                                                                                                                                                                         | [Zoom](https://go.mdb.dev/recruit-zoom) |
-| **Sep 03** | **12:00 AM** | A Test Event                                                                                                                                                                                                                                                                                     | [Zoom](https://apple.com)               |
 
 
 
