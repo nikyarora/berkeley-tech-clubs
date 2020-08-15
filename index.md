@@ -17,9 +17,9 @@ Hey! Welcome to the central source for information relating to Berkeley Tech stu
 ### Resources
 
 On this site, you'll find...
-- A [Calendar](/calendar) containing events & workshops
+- A [Calendar](/schedule) containing events & workshops
 - Information about club recruiting, including application forms and deadlines
-- A way to [reach out to clubs](/contact) that you have questions about
+- A way to reach out to clubs that you have questions about
 - And much more!
 
 To get started, navigate to a page using the sidebar, or just search for a keyword above!
