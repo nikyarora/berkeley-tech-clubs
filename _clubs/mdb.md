@@ -24,7 +24,7 @@ MDB is a vibrant, open community of developers seeking to drive change within an
 
 ## Club Overview
 
-Your first semester in MDB will consist of a new member training program, an intensive, rigorous, and all-inclusive mobile development program that all new members participate in. You will have the option of pursuing Android or iOS development and by the end of the semester you will have made signiifcant process towards publishing your first mobile application to the app store.
+Your first semester in MDB will consist of a new member training program, an intensive, rigorous, and all-inclusive mobile development program that all new members participate in. You will have the option of pursuing Android or iOS development and by the end of the semester you will have made significant progress towards publishing your first mobile application to the app store.
 
 After your semester, you can choose to join one of the following branches of the organization:
 
