@@ -8,7 +8,7 @@ description: >-
 
 <img src="https://dl.airtable.com/.attachments/84c59579067c8594cf5eb244d37b64a6/3518d80f/mdb.jpg" alt="logo" style="height:45px !important;"/>
 # Mobile Developers of Berkeley (MDB)
-{:.no_toc}
+{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -24,7 +24,7 @@ MDB is a vibrant, open community of developers seeking to drive change within an
 
 ## Club Overview
 
-Your first semester in MDB will consist of a new member training program, an intensive, rigorous, and all-inclusive mobile development program that all new members participate in. You will have the option of pursuing Android or iOS development and by the end of the semester you will have made signiifcant process towards publishing your first mobile application to the app store.
+Your first semester in MDB will consist of a new member training program, an intensive, rigorous, and all-inclusive mobile development program that all new members participate in. You will have the option of pursuing Android or iOS development and by the end of the semester you will have made significant progress towards publishing your first mobile application to the app store.
 
 After your semester, you can choose to join one of the following branches of the organization:
 
@@ -50,4 +50,3 @@ If you are interested in learning more about MDB, come out to some of our upcomi
 Our application is due on Thursday, September 3rd at midnight! You can find the application at (insert application link here)
 
 To learn more, please check out our website at [mdb.dev](http://mdb.dev) or email us at [contact@mdb.dev](mailto:contact@mdb.dev)
-
