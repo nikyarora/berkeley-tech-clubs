@@ -8,8 +8,10 @@ description: >-
 
 <img src="https://dl.airtable.com/.attachments/84c59579067c8594cf5eb244d37b64a6/3518d80f/mdb.jpg" alt="logo" style="height:45px !important;"/>
 # Mobile Developers of Berkeley (MDB)
+{: .no_toc }
 
 ## Table of contents
+{: .no_toc .text-delta }
 
 1. TOC
 {:toc}
