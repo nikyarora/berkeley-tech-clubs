@@ -18,4 +18,5 @@ Launchpad is a community of creative and passionate engineers that tackle real w
 ## External Links
 
 Website: https://launchpad.berkeley.edu/
+
 Discord Server: https://tinyurl.com/launchpad-discord
