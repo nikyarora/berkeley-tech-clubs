@@ -11,11 +11,11 @@ description: >-
 
 ---
 
-#About
+## About
 
 Launchpad is a community of creative and passionate engineers that tackle real world problems using machine learning. Launchpad supports student creativity through our unique student-led projects.
 
-#External Links
+## External Links
 
 Website: https://launchpad.berkeley.edu/
 Discord Server: https://tinyurl.com/launchpad-discord
