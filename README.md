@@ -7,4 +7,4 @@ Berkeley Tech Clubs is a website for all tech clubs to consolidate information a
 - a calendar of events
 - contact information for each club
 
-Please reach out to nikyarora@berkeley.edu to be added as a contributor to this site.
+Please reach out to nikyarora@berkeley.edu to be added as a contributor to this site or follow the directions in https://docs.google.com/document/d/1nhfptX0cIJVhUrmnS4hELtvOkhQxJxxIbiF2EGBPFzM/edit?usp=sharing
