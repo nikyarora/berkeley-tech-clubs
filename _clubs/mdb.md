@@ -43,7 +43,7 @@ More information at [techfair.dev](http://techfair.dev)
 
 If you are interested in learning more about MDB, come out to some of our upcoming recruiting events:
 
-1. Tabling (insert dates): (insert Zoom)
+1. Tabling (insert dates): (go.mdb.dev/zoom)
 2. Infosession (Monday, August 31): (insert Zoom)
 3. Meet the Members (Tuesday, September 1): (insert Zoom)
 
