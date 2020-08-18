@@ -30,6 +30,15 @@ All times are in PST.
 | **Aug 31** | **8:00 PM**  | MDB Infosession                                                                                                                                                                                                                                                                                  | [Zoom](https://go.mdb.dev/recruit-zoom) |
 | **Sep 01** | **8:00 PM**  | MDB Meet the Members                                                                                                                                                                                                                                                                             | [Zoom](https://go.mdb.dev/recruit-zoom) |
 | **Sep 03** | **12:00 AM** | MDB Application Deadline                                                                                                                                                                                                                                                                         |                                         |
+| **Sep 04** | **7:00 PM**  | XR@B Infosession #1                                                                                                                                                                                                                                                                              |                                         |
+
+
+
+## Week of September 07
+
+| Date       | Time         | Event &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | Zoom   |
+| :-----------| :-------------| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :-------|
+| **Sep 08** | **11:00 AM** | XR@B Infosession #2                                                                                                                                                                                                                                                                              |        |
 
 
 
