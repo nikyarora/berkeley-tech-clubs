@@ -28,7 +28,7 @@ Dive straight into developing with us. We're expanding the horizons on HCI and i
 
 ## VR DeCal
 
-VR / AR is one of the hottest growing industries in computing, consumer technology, and is rapidly advancing computer vision. Its applications range from entertainment to medical. If you have a background in CS, have dabbled in Unity, and want to take it to the next step - join us and we'll teach you the rest. Find out more about our DeCal [here](https://xr.berkeley.edu/decal/).
+VR / AR is one of the hottest growing industries in computing, consumer technology, and is rapidly advancing computer vision. Its applications range from entertainment to medical. If you have a background in CS, have dabbled in Unity, and want to take it to the next step - join us and we'll teach you the rest. Find out more about the VR DeCal [here](https://xr.berkeley.edu/decal/).
 
 ## ROAR Decal
 
@@ -40,7 +40,7 @@ Robot Autonomous Racing DeCal is a course dedicated to teaching students to gain
 * Using low-latency video streaming to remote control the car in virtual reality.
 * And other interesting topics surrounding robotics, planning, etc.
 
-At the end of the semester, students will team up using their fully-fledged racing car to participate in the ROAR competition. Find out more on the [ROAR DeCal website](https://roar-decal.github.io/index.html).
+At the end of the semester, students will team up using their fully-fledged racing car to participate in the ROAR competition. Find out more about the ROAR DeCal [here](https://roar-decal.github.io/index.html).
 
 ## Fall 2020 Recruitment
 
