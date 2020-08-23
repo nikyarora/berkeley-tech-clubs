@@ -38,7 +38,7 @@ This semester, we’re extremely excited to be working with **CoFED (Cooperative
 For those who have a foundation in software engineering, either through developing a significant project or some industry experience, we run four client teams that each work with a tech company. Going into the project, every developer is quickly onboarded onto their respective tech stacks through a curriculum designed by the PMs, before transitioning to the overall project for the semester.
 
 This Fall, we have some amazing projects lined up with awesome clients! Here they are:
-- **Circle** enables companies to run an internet business using new standards for money powered by USD Coin, the fastest growing regulated stablecoin. We will be building a USDC dashboard for people to manage their cryptocurrency via Circle’s Wallets API.
+- **Circle** enables companies to run an internet business using new standards for money powered by USD Coin, the fastest growing regulated stablecoin. We will be building a USDC dashboard for people to manage/monitor USDC on multiple blockchain networks.
 - **RiskIQ** enables discovery of threats and threat actors using unmatched breadth of Internet data and deep intelligence. We will be rebuilding and optimizing a tool for RiskIQ that identifies the security of SSL certificates.
 - **InfluxData** is the creator of InfluxDB, an open source time series database, and Telegraf, an agent for collecting, processing, aggregating, and writing metrics. We will be developing cloud-controlled configuration management features for Telegraf.
 - Our fourth and final client has requested to not be revealed publicly. The project will be a full-stack web application to configure business logic rules!
