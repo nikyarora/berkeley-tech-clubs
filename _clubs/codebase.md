@@ -8,7 +8,6 @@ description: >-
 
 <img src="https://dl.airtable.com/.attachments/8341c51ad92d6bbda305ea8197f35493/c1a6b255/download.png" alt="logo" style="height:45px !important;"/>
 # Codebase
-
 {: .no_toc }
 
 ## Table of contents
