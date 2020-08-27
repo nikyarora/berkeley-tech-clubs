@@ -52,6 +52,6 @@ Our Applications will open by Sunday, August 30th and **they will be due on Frid
 
 Instead of having one large infosession this (virtual) fall, **Blueprint is hosting an infosession series! Every day from 8/30 to 9/4, we'll have four mini sessions, each limited to 10 applicants.** These small sessions will give you a chance to ask questions and talk to our members in a comfortable setting!
 
-**Visit 👉 [bit.ly/bp-infosession](http://bit.ly/bp-infosession)n 👈 to sign up and learn more!**
+**Visit 👉 [bit.ly/bp-infosession](http://bit.ly/bp-infosession) 👈 to sign up and learn more!**
 
 If you have questions, email us at [team@calblueprint.org](mailto:team@calblueprint.org)
