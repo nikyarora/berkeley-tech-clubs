@@ -44,10 +44,10 @@ At the end of the semester, students will team up using their fully-fledged raci
 
 ## Fall 2020 Recruitment
 
-If you are interested in learning more about XR@B, come to our club infosessions:
+If you are interested in learning more about XR@B, come to our club info sessions:
 
-1. **Infosession #1** - Friday, September 4th, 7-9pm PST on [Zoom]
-2. **Infosession #2** - Tuesday, September 8th, 11am-1pm PST on [Zoom]
+1. **Info Session #1** - Friday, September 4th, 7-9pm PST on [Zoom](https://berkeley.zoom.us/j/96189552639)
+2. **Info Session #2** - Tuesday, September 8th, 11am-1pm PST on [Zoom](https://berkeley.zoom.us/j/96148443888)
 
 Add your email to our mailing list [here](https://forms.gle/BFV18gwPiMWy9uNR9) and you'll be the first to know when our application is released. You'll also receive the latest info on our club events and activities.
 
