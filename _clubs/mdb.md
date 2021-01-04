@@ -41,6 +41,6 @@ More information at [techfair.dev](http://techfair.dev)
 
 ## Recruitment Details (Spring 2021)
 
-If you are interested in learning more about MDB, come out to some of our upcoming recruiting events:
+If you are interested in learning more about MDB, come out to some of our upcoming recruiting events. 
 
 To learn more, please check out our website at [mdb.dev](http://mdb.dev) or email us at [contact@mdb.dev](mailto:contact@mdb.dev)
