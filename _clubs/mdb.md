@@ -39,14 +39,8 @@ MDB also hosts the Berkeley Techfair each semester:
 
 More information at [techfair.dev](http://techfair.dev)
 
-## Recruitment Details (Fall 2020)
+## Recruitment Details (Spring 2021)
 
 If you are interested in learning more about MDB, come out to some of our upcoming recruiting events:
-
-1. Tabling (insert dates): (go.mdb.dev/zoom)
-2. Infosession (Monday, August 31): (insert Zoom)
-3. Meet the Members (Tuesday, September 1): (insert Zoom)
-
-Our application is due on Thursday, September 3rd at midnight! You can find the application at (insert application link here)
 
 To learn more, please check out our website at [mdb.dev](http://mdb.dev) or email us at [contact@mdb.dev](mailto:contact@mdb.dev)
