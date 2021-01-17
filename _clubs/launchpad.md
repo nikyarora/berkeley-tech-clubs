@@ -13,8 +13,10 @@ description: >-
 ## Table of contents
 {: .no_toc .text-delta }
 
----
+1. TOC
 {:toc}
+
+---
 
 ## About
 
@@ -34,7 +36,7 @@ Launchpad is a community of creative and passionate engineers that tackle real w
 
 - **Tabling**: 1/19 - 1/22, 10am-4pm and 9pm-12pm PST
 - **Tabling**: 1/25 - 1/28, 10am-4pm PST
-- **CS Clubs @ Berkeley: Women's Panel/Infosession**: Thursday, January 21, 7-9pm PST
+- **CS Clubs @ Berkeley - Women's Panel/Infosession**: Thursday, January 21, 7-9pm PST
 - **Info Session #1**: Tuesday, January 26, 8-10pm PST
 - **Info Session #2**: Wednesday, January 27, 8-10pm PST
 - **ML Workshop**: Thursday, January 28, 8-10pm PST
