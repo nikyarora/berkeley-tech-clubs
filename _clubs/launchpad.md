@@ -8,8 +8,13 @@ description: >-
 
 <img src="https://dl.airtable.com/.attachments/87e2bc818bb828d817d9161f0007c0fd/c6425fe4/launchpad_logo.jpg" alt="logo" style="height:45px !important;"/>
 # Launchpad
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
 
 ---
+{:toc}
 
 ## About
 
