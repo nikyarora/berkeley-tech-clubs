@@ -14,35 +14,6 @@ seo:
 
 All times are in PST.
 
-## Week of August 24
-
-| Date       | Time         | Event &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | Zoom                            |
-| :-----------| :-------------| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :--------------------------------|
-| **Aug 27** | **10:00 AM** | MDB Tabling                                                                                                                                                                                                                                                                                      | [Zoom](https://go.mdb.dev/zoom) |
-| **Aug 28** | **4:00 PM**  | MDB Tabling                                                                                                                                                                                                                                                                                      | [Zoom](https://go.mdb.dev/zoom) |
-| **Aug 30** | **4:00 PM**  | Start of Blueprint Infosession Series (4 each day)                                                                                                                                                                                                                                               | [Zoom](bit.ly/bp-infosession)   |
-
-
-
-## Week of August 31
-
-| Date       | Time         | Event &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | Zoom                                           |
-| :-----------| :-------------| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :-----------------------------------------------|
-| **Sep 02** | **8:00 PM**  | MDB Meet the Members                                                                                                                                                                                                                                                                             | [Zoom](https://go.mdb.dev/zoom)                |
-| **Sep 03** | **11:59 PM** | MDB Application Deadline                                                                                                                                                                                                                                                                         |                                                |
-| **Sep 04** | **4:00 PM**  | XR@B Virtual Calapalooza                                                                                                                                                                                                                                                                         | [Zoom](https://berkeley.zoom.us/j/97106339882) |
-| **Sep 04** | **11:59 PM** | Blueprint Application Deadline                                                                                                                                                                                                                                                                   |                                                |
-
-
-
-## Week of September 07
-
-| Date       | Time         | Event &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | Zoom   |
-| :-----------| :-------------| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :-------|
-| **Sep 09** | **11:59 PM** | XR@B Application Deadline                                                                                                                                                                                                                                                                        |        |
-
-
-
 ## Week of January 18
 
 | Date       | Time        | Event &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    | Zoom                                              |
