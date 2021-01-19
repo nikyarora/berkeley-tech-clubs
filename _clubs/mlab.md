@@ -26,23 +26,23 @@ We are a student-run organization based at the University of California, Berkele
 
 Our collaborations with industry partners is one of our three pillars mentioned above. Here are a few highlights of some past industry projects:
 
-- *[Fall 2019/Spring 2020]* NASA ([https://nasa.gov/](https://nasa.gov/)//)—onboard NASA’s ships, NASA uses RFID chips to keep track of major objects. However, there is a long delay between the reading of the positions of these objects. Deep Learning is necessary to interpolate the position of the static “benchmark” RFID tags. Our team developed an optimal solution for NASA for this task
+- *[Fall 2019/Spring 2020]* [NASA](https://nasa.gov) —onboard NASA’s ships, NASA uses RFID chips to keep track of major objects. However, there is a long delay between the reading of the positions of these objects. Deep Learning is necessary to interpolate the position of the static “benchmark” RFID tags. Our team developed an optimal solution for NASA for this task
 
-- *[Fall 2019]* Vyrill ([https://vyrill.com/](https://vyrill.com/)//)—given a Youtube video about a company’s product, we applied NLP to determine the sentiment of each comment towards the subject of the video, and quantify the strength of this sentiment. We then aggregated the comments’ sentiment to get an aggregate reaction to the video itself
+- *[Fall 2019]* [Vyrill](https://vyrill.com)—given a Youtube video about a company’s product, we applied NLP to determine the sentiment of each comment towards the subject of the video, and quantify the strength of this sentiment. We then aggregated the comments’ sentiment to get an aggregate reaction to the video itself
 
-- *[Fall 2020]* Copliot ([https://copilotai.com/](https://copilotai.com/)//)—Copilot offers sales people cue cards which pop up during key moments in sales calls, highlighting the information they need. We applied sentence and word modeling to find the most applicable information for a given point in the call.
-*Slides at:* [https://tinyurl.com/berkeleyml-proj-copilot](https://tinyurl.com/berkeleyml-proj-copilot)tt
+- *[Fall 2020]* [Copliot](https://copilotai.com) —Copilot offers sales people cue cards which pop up during key moments in sales calls, highlighting the information they need. We applied sentence and word modeling to find the most applicable information for a given point in the call.
+*Slides available [here](https://tinyurl.com/berkeleyml-proj-copilot)*
 
 ## Research Projects Highlight
 
 Complementing our industry projects are our research projects, where we work together with PhDs or research scientists at Google Brain or FAIR on machine learning problems at the frontier of research. Here's a few of our recent projects that ML@B problems devised and worked on themselves. 
 
 - *[Fall 2020]* Semantic Convolutions—we set out to improve the interpretability of convolutional networks, hoping to go beyond the traditional intuition of CNNs being just stacked progressively refining feature detector layers since it is quite brittle in practice. We ended with Capsule Networks as our primary research direction and iterated upon a Google Brain paper to try and make Capsule nets competitive with plain CNNs
-*Repo at:* [https://github.com/mlberkeley/scae-pytorch](https://github.com/mlberkeley/scae-pytorch)hh
-*Presentation video at:* [https://youtu.be/WxVq0wJKh8o?t=1055](https://youtu.be/WxVq0wJKh8o?t=1055)55
+*Repo available [here](https://github.com/mlberkeley/scae-pytorch)*
+*Presentation video available [here](https://youtu.be/WxVq0wJKh8o?t=1055)*
 
 - *[Spring 2020]* Self-supervised EEG—EEG brain signals measure the brain’s electrical activity, but applications of deep learning have been limited due to the expensive manual process of labeling sequences. We created an open source implementation of self-supervised techniques to develop latent representations instead! These can be used for downstream classification tasks with limited supervision
-*Docs at:* [https://tinyurl.com/berkeleyml-proj-eeg](https://tinyurl.com/berkeleyml-proj-eeg)gg
+*Docs available [here](https://tinyurl.com/berkeleyml-proj-eeg)*
 
 ## Education Initiatives
 
@@ -61,7 +61,7 @@ When you first join ML@B, you will apply to do one of the following based on exp
 - an industry or research project, or
 - become a project manager.
 
-Those with enough experience can just jump right into our projects every semester. For the members who join NMEP (majority of each new member class), you will spend a semester learning and then end it with a final group project. After this first semester, you will be able to join an industry/research project as well as a committee of your choosing (as long as you did all your homework of course). For an example of an NMEP Project from Fall 2020, check out [this presentation]([https://youtu.be/WxVq0wJKh8o?t=709](https://youtu.be/WxVq0wJKh8o?t=709)99) the Video Gesture overlay team did on their Zoom overlay for video gestures. 
+Those with enough experience can just jump right into our projects every semester. For the members who join NMEP (majority of each new member class), you will spend a semester learning and then end it with a final group project. After this first semester, you will be able to join an industry/research project as well as a committee of your choosing (as long as you did all your homework of course). For an example of an NMEP Project from Fall 2020, check out [this video demo](https://youtu.be/WxVq0wJKh8o?t=709) the Video Gesture overlay team did on their Zoom overlay based on hand gestures.
 
 ## ML@B Community
 
@@ -77,7 +77,7 @@ We all can’t wait to meet our newest members!
 
 If you are interested in learning more about ML@B, come out to some of our upcoming recruiting events (all times PST):
 
-1. Tabling (Friday, 1/22; Monday, 1/25; Thursday, 1/28): From 3-4pm and 6-8pm on our Discord! [tiny.cc/berkeleyml-discord](http://tiny.cc/berkeleyml-discord)
+1. Tabling (Friday, 1/22; Monday, 1/25; Thursday, 1/28): From 3-4pm and 6-8pm on our Discord [here](http://tiny.cc/berkeleyml-discord)!
 
 2. Infosessions (Tuesday, 1/26; Wednesday, 1/27): From 8-10pm on Tuesday and 6-8pm on Wednesday. Zoom Link is [tiny.cc/ml-info](tiny.cc/ml-info). 
 
