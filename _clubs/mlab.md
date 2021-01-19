@@ -18,11 +18,11 @@ description: >-
 
 ---
 
-## About Us
+## 🔥 About Us
 
 We are a student-run organization based at the University of California, Berkeley dedicated to building and fostering a vibrant machine learning community on campus while contributing to the greater machine learning community beyond. Our community is comprised of undergraduate and graduate students working on machine learning **industry** consulting projects, cutting-edge academic machine learning **research**, and **educational** initiatives to make machine learning more accessible to the greater Berkeley community and beyond.
 
-## Industry Consulting Projects Highlight
+## ⚙️ Industry Consulting Projects Highlight
 
 Our collaborations with industry partners is one of our three pillars mentioned above. Here are a few highlights of some past industry projects:
 
@@ -33,7 +33,7 @@ Our collaborations with industry partners is one of our three pillars mentioned 
 - *[Fall 2020]* [Copliot](https://copilotai.com) —Copilot offers sales people cue cards which pop up during key moments in sales calls, highlighting the information they need. We applied sentence and word modeling to find the most applicable information for a given point in the call.
 *Slides available [here](https://tinyurl.com/berkeleyml-proj-copilot)*
 
-## Research Projects Highlight
+## ⚗️ Research Projects Highlight
 
 Complementing our industry projects are our research projects, where we work together with PhDs or research scientists at Google Brain or FAIR on machine learning problems at the frontier of research. Here's a few of our recent projects that ML@B problems devised and worked on themselves. 
 
@@ -44,7 +44,7 @@ Complementing our industry projects are our research projects, where we work tog
 - *[Spring 2020]* Self-supervised EEG—EEG brain signals measure the brain’s electrical activity, but applications of deep learning have been limited due to the expensive manual process of labeling sequences. We created an open source implementation of self-supervised techniques to develop latent representations instead! These can be used for downstream classification tasks with limited supervision
 *Docs available [here](https://tinyurl.com/berkeleyml-proj-eeg)*
 
-## Education Initiatives
+## 📚 Education Initiatives
 
 Education has long been at the heart of what we do in ML@B. We want to educate the masses, and that only happens when we dream big. You'll see that many of our initiatives below reflect that mentality.
 
@@ -57,7 +57,7 @@ Education has long been at the heart of what we do in ML@B. We want to educate t
 
 Each semester, the internal team runs a class called NMEP to teach our new members with less prior experience in order to prepare them for industry and research projects. Topics include the foundational stuff (like SVMs and decision trees), Computer Vision, Natural Language Processing, Reinforcement Learning, and Unsupervised Learning. By the end of this intense class you’ll be ready to do your own research or contribute meaningfully to industry projects, and we stand behind this claim by letting new members work on projects very quickly
 
-## New Member Experience
+## 🍼 New Member Experience
 
 When you first join ML@B, you will apply to do one of the following based on experience level:
 
@@ -67,7 +67,7 @@ When you first join ML@B, you will apply to do one of the following based on exp
 
 Those with enough experience can just jump right into our projects every semester. For the members who join NMEP (majority of each new member class), you will spend a semester learning and then end it with a final group project. After this first semester, you will be able to join an industry/research project as well as a committee of your choosing (as long as you did all your homework of course). For an example of an NMEP Project from Fall 2020, check out [this video demo](https://youtu.be/WxVq0wJKh8o?t=709) the Video Gesture overlay team did on their Zoom overlay based on hand gestures.
 
-## ML@B Community
+## 🥳 ML@B Community
 
 While ML@B is great for professional opportunities and all, most of our members would say the best thing about the club is the awesome community. We have a big team of officers dedicated to building a strong community through:
 
@@ -77,15 +77,15 @@ While ML@B is great for professional opportunities and all, most of our members 
 
 We all can’t wait to meet our newest members!
 
-## Recruitment Schedule (Spring 2021)
+## 🏃‍♂️ Recruitment Schedule (Spring 2021)
 
 If you are interested in learning more about ML@B, come out to some of our upcoming recruiting events (all times PST):
 
 1. Tabling (Friday, 1/22; Monday, 1/25; Thursday, 1/28): From 3-4pm and 6-8pm on our Discord [here](http://tiny.cc/berkeleyml-discord)!
 
-2. Infosessions (Tuesday, 1/26; Wednesday, 1/27): From 8-10pm on Tuesday and 6-8pm on Wednesday. Zoom Link is [tiny.cc/ml-info](tiny.cc/ml-info)o. 
+2. Infosessions (Tuesday, 1/26; Wednesday, 1/27): From 8-10pm on Tuesday and 6-8pm on Wednesday. Zoom Link is [tiny.cc/ml-info](tiny.cc/ml-info)oo. 
 
-Our application is due on Thursday, January 28th at midnight! You can find the application at [tiny.cc/mlab-sp21](http://tiny.cc/mlab-sp21)1.
+Our application is due on Thursday, January 28th at midnight! You can find the application at [tiny.cc/mlab-sp21](http://tiny.cc/mlab-sp21)11.
 
 The next steps after the applications are as follows (all invite only):
 
@@ -95,6 +95,6 @@ The next steps after the applications are as follows (all invite only):
 
 Go to our [website](https://ml.berkeley.edu/apply) for more information on applying!
 
-## Contact Us
+## 📩 Contact Us
 
 Interested in joining our community? Visit our [website](ml.berkeley.edu) to learn more, or email us at [contact@ml.berkeley.edu](mailto:contact@ml.berkeley.edu).
