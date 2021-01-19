@@ -27,7 +27,9 @@ We are a student-run organization based at the University of California, Berkele
 Our collaborations with industry partners is one of our three pillars mentioned above. Here are a few highlights of some past industry projects:
 
 - *[Fall 2019/Spring 2020]* NASA ([https://nasa.gov/](https://nasa.gov/)//)—onboard NASA’s ships, NASA uses RFID chips to keep track of major objects. However, there is a long delay between the reading of the positions of these objects. Deep Learning is necessary to interpolate the position of the static “benchmark” RFID tags. Our team developed an optimal solution for NASA for this task
+
 - *[Fall 2019]* Vyrill ([https://vyrill.com/](https://vyrill.com/)//)—given a Youtube video about a company’s product, we applied NLP to determine the sentiment of each comment towards the subject of the video, and quantify the strength of this sentiment. We then aggregated the comments’ sentiment to get an aggregate reaction to the video itself
+
 - *[Fall 2020]* Copliot ([https://copilotai.com/](https://copilotai.com/)//)—Copilot offers sales people cue cards which pop up during key moments in sales calls, highlighting the information they need. We applied sentence and word modeling to find the most applicable information for a given point in the call.
 *Slides at:* [https://tinyurl.com/berkeleyml-proj-copilot](https://tinyurl.com/berkeleyml-proj-copilot)tt
 
@@ -38,10 +40,13 @@ Complementing our industry projects are our research projects, where we work tog
 - *[Fall 2020]* Semantic Convolutions—we set out to improve the interpretability of convolutional networks, hoping to go beyond the traditional intuition of CNNs being just stacked progressively refining feature detector layers since it is quite brittle in practice. We ended with Capsule Networks as our primary research direction and iterated upon a Google Brain paper to try and make Capsule nets competitive with plain CNNs
 *Repo at:* [https://github.com/mlberkeley/scae-pytorch](https://github.com/mlberkeley/scae-pytorch)hh
 *Presentation video at:* [https://youtu.be/WxVq0wJKh8o?t=1055](https://youtu.be/WxVq0wJKh8o?t=1055)55
+
 - *[Spring 2020]* Self-supervised EEG—EEG brain signals measure the brain’s electrical activity, but applications of deep learning have been limited due to the expensive manual process of labeling sequences. We created an open source implementation of self-supervised techniques to develop latent representations instead! These can be used for downstream classification tasks with limited supervision
 *Docs at:* [https://tinyurl.com/berkeleyml-proj-eeg](https://tinyurl.com/berkeleyml-proj-eeg)gg
 
 ## Education Initiatives
+
+Education has long been at the heart of what we do in ML@B. We want to educate the masses, and that only happens when we dream big. You'll see that many of our initiatives below reflect that mentality.
 
 - DeCals—a major part of our external education efforts, we offer these member-led courses to the wider Berkeley community. Topics of past classes include: Machine Learning in Healthcare, Self-Driving Cars, and Ethics in AI
 - EdX—a new initiative this semester, we are working with BerkeleyX to publish a sponsored and certified Massively Open Online Course to the EdX platform
@@ -76,7 +81,7 @@ If you are interested in learning more about ML@B, come out to some of our upcom
 
 2. Infosessions (Tuesday, 1/26; Wednesday, 1/27): From 8-10pm on Tuesday and 6-8pm on Wednesday. Zoom Link is [tiny.cc/ml-info](tiny.cc/ml-info). 
 
-Our application is due on Thursday, January 28th at midnight! You can find the application at [tiny.cc/mlab-sp21](http://tiny.cc/mlab-sp21)1.
+Our application is due on Thursday, January 28th at midnight! You can find the application at [tiny.cc/mlab-sp21](http://tiny.cc/mlab-sp21).
 
 The next steps after the applications are as follows (all invite only):
 
@@ -84,7 +89,7 @@ The next steps after the applications are as follows (all invite only):
 2. Member Mixer (Sunday, 1/31) 
 3. Final Round Interview (Monday, 2/1) 
 
-Go to our [website]([https://ml.berkeley.edu/apply](https://ml.berkeley.edu/apply)yy) for more information on applying!
+Go to our [website](https://ml.berkeley.edu/apply) for more information on applying!
 
 ## Contact Us
 
