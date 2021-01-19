@@ -53,6 +53,10 @@ Education has long been at the heart of what we do in ML@B. We want to educate t
 - Reading Groups—big contributor to our ongoing member education, reading groups are presentations and discussion sessions centered on an academic paper or general topic
 - Workshops—like reading groups, workshops are internal presentations and discussions that allow ML@B members to keep learning. These sessions focus on sharing skills and wisdom of our older members
 
+## 👩‍🎓 NMEP: New Member Education Program
+
+Each semester, the internal team runs a class called NMEP to teach our new members with less prior experience in order to prepare them for industry and research projects. Topics include the foundational stuff (like SVMs and decision trees), Computer Vision, Natural Language Processing, Reinforcement Learning, and Unsupervised Learning. By the end of this intense class you’ll be ready to do your own research or contribute meaningfully to industry projects, and we stand behind this claim by letting new members work on projects very quickly
+
 ## New Member Experience
 
 When you first join ML@B, you will apply to do one of the following based on experience level:
@@ -79,9 +83,9 @@ If you are interested in learning more about ML@B, come out to some of our upcom
 
 1. Tabling (Friday, 1/22; Monday, 1/25; Thursday, 1/28): From 3-4pm and 6-8pm on our Discord [here](http://tiny.cc/berkeleyml-discord)!
 
-2. Infosessions (Tuesday, 1/26; Wednesday, 1/27): From 8-10pm on Tuesday and 6-8pm on Wednesday. Zoom Link is [tiny.cc/ml-info](tiny.cc/ml-info). 
+2. Infosessions (Tuesday, 1/26; Wednesday, 1/27): From 8-10pm on Tuesday and 6-8pm on Wednesday. Zoom Link is [tiny.cc/ml-info](tiny.cc/ml-info)o. 
 
-Our application is due on Thursday, January 28th at midnight! You can find the application at [tiny.cc/mlab-sp21](http://tiny.cc/mlab-sp21).
+Our application is due on Thursday, January 28th at midnight! You can find the application at [tiny.cc/mlab-sp21](http://tiny.cc/mlab-sp21)1.
 
 The next steps after the applications are as follows (all invite only):
 
