@@ -83,9 +83,9 @@ If you are interested in learning more about ML@B, come out to some of our upcom
 
 1. Tabling (Friday, 1/22; Monday, 1/25; Thursday, 1/28): From 3-4pm and 6-8pm on our Discord [here](http://tiny.cc/berkeleyml-discord)!
 
-2. Infosessions (Tuesday, 1/26; Wednesday, 1/27): From 8-10pm on Tuesday and 6-8pm on Wednesday. Zoom Link is [tiny.cc/ml-info](tiny.cc/ml-info)oo. 
+2. Infosessions (Tuesday, 1/26; Wednesday, 1/27): From 8-10pm on Tuesday and 6-8pm on Wednesday. Zoom Link is [tiny.cc/ml-info](https://tiny.cc/ml-info).
 
-Our application is due on Thursday, January 28th at midnight! You can find the application at [tiny.cc/mlab-sp21](http://tiny.cc/mlab-sp21)11.
+Our application is due on Thursday, January 28th at midnight! You can find the application at [tiny.cc/mlab-sp21](https://tiny.cc/mlab-sp21).
 
 The next steps after the applications are as follows (all invite only):
 
