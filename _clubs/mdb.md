@@ -34,14 +34,14 @@ After your semester, you can choose to join one of the following branches of the
 
 MDB also hosts the annual [Berkeley Techfair](https://techfair.dev)
 
-## Recruitment Details (Fall 2020)
+## Recruitment Details (Spring 2021)
 
 If you are interested in learning more about MDB, come out to some of our upcoming recruiting events:
 
-1. Coffee Chats (January 20 - January 29): [go.mdb.dev/coffeechats](https://go.mdb.dev/coffeechats)
+1. Coffee Chats (January 20 - January 29): [go.mdb.dev/coffeechats](https://go.mdb.dev/coffeechats)s
 2. Infosession 1 (January 27)
 3. Infosession 2 (February 1)
 
-Our application is due on Tuesday, February 2nd at 8pm! You can find the application [mdb.dev/apply](https://mdb.dev/apply)
+Our application is due on Tuesday, February 2nd at 8pm! You can find the application [mdb.dev/apply](https://mdb.dev/apply)y
 
 To learn more, please check out our website at [mdb.dev](http://mdb.dev) or email us at [contact@mdb.dev](mailto:contact@mdb.dev)
