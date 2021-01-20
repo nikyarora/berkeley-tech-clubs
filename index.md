@@ -23,3 +23,7 @@ On this site, you'll find...
 - And much more!
 
 To get started, navigate to a page using the sidebar, or just search for a keyword above!
+
+### Contribute
+
+If you are a leader of a tech club on campus and would like to publish information about your club, please email [contact@mdb.dev](mailto:contact@mdb.dev)
