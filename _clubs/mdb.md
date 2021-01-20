@@ -24,7 +24,7 @@ MDB is a vibrant, open community of developers seeking to drive change within an
 
 ## Club Overview
 
-Your first semester in MDB will consist of a new member training program, an intensive, rigorous, and all-inclusive mobile development program that all new members participate in. You will have the option of pursuing Android or iOS development and by the end of the semester you will have made significant progress towards publishing your first mobile application to the app store.
+Your first semester in MDB will consist of a new member training program, an intensive, rigorous, and all-inclusive mobile development program that all new members participate in. You will have the option of pursuing React Native or iOS development and by the end of the semester you will have made significant progress towards publishing your first mobile application to the app store.
 
 After your semester, you can choose to join one of the following branches of the organization:
 
@@ -32,21 +32,16 @@ After your semester, you can choose to join one of the following branches of the
 2. Contract: Contract is our professional services branch in which companies will hire us to build there mobile application. Our members control the entire process including the initial ideation and designs, the development, and the deployment onto the app store. Contract gives members a unique, industry-level experience.
 3. Training Program: Members who are interested in education can choose to return to training program and work on creating new content for the program, being an instructor, or being a mentor.
 
-MDB also hosts the Berkeley Techfair each semester:
-
-1. Enable Berkeley students to showcase their work to the community
-2. Connecting Bay Area/Berkeley startups to Berkeley students
-
-More information at [techfair.dev](http://techfair.dev)
+MDB also hosts the annual [Berkeley Techfair](https://techfair.dev)
 
 ## Recruitment Details (Fall 2020)
 
 If you are interested in learning more about MDB, come out to some of our upcoming recruiting events:
 
-1. Tabling (insert dates): (go.mdb.dev/zoom)
-2. Infosession (Monday, August 31): (insert Zoom)
-3. Meet the Members (Tuesday, September 1): (insert Zoom)
+1. Coffee Chats (January 20 - January 29): [go.mdb.dev/coffeechats](https://go.mdb.dev/coffeechats)
+2. Infosession 1 (January 27)
+3. Infosession 2 (February 1)
 
-Our application is due on Thursday, September 3rd at midnight! You can find the application at (insert application link here)
+Our application is due on Tuesday, February 2nd at 8pm! You can find the application [mdb.dev/apply](https://mdb.dev/apply)
 
 To learn more, please check out our website at [mdb.dev](http://mdb.dev) or email us at [contact@mdb.dev](mailto:contact@mdb.dev)
