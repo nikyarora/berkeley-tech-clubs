@@ -39,9 +39,9 @@ After your semester, you can choose to join one of the following branches of the
 MDB also hosts the annual [Berkeley Techfair](https://techfair.dev)
 
 ## 🎉 Community
-One of the best things about MDB is our club's community! Through our Big-Little program, Retreats, Game Nights, and numerous other Socials, you can find you family here at Cal.
+One of the best things about MDB is our club's community! Through our Big-Little program, Retreats, Game Nights, and numerous other Socials, MDB really feels like your Cal family.
 
-We have continued to have fun online socials during the pandemic including Escape Rooms, Jackbox, Trivia Nights, Virtual Scavenger Hunts, and numerous Among Us games.
+We have continued to have fun online socials during the pandemic including Escape Rooms, Jackbox, Trivia Nights, Virtual Scavenger Hunts, and numerous Among Us competitions!
 
 We can't wait to get to know you through the MDB Community!
 
@@ -49,11 +49,11 @@ We can't wait to get to know you through the MDB Community!
 
 If you are interested in learning more about MDB, come out to some of our upcoming recruiting events:
 
-1. Coffee Chats (January 20 - January 29): [go.mdb.dev/coffeechats](https://go.mdb.dev/coffeechats)
+1. Coffee Chats (January 20 - January 29): [go.mdb.dev/coffeechats](https://go.mdb.dev/coffeechats)s
 2. Infosession 1 (January 27)
 3. Infosession 2 (February 1)
 
-Our application is due on Tuesday, February 2nd at 8pm! You can find the application [mdb.dev/apply](https://mdb.dev/apply)yy
+Our application is due on Tuesday, February 2nd at 8pm! You can find the application [mdb.dev/apply](https://mdb.dev/apply)
 
 
 ## ✉️ Contact Us
